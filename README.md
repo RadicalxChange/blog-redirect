@@ -1,0 +1,1 @@
+This repository implements redirects from https://blog.radicalxchange.org to the https://www.radicalxchange.org/kiosk/. blog.radicalxchange.org was taken down at the very end of 2020.

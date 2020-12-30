@@ -1,0 +1,3 @@
+/   https://www.radicalxchange.org/kiosk/
+/blog   https://www.radicalxchange.org/kiosk/
+/blog/posts/* https://www.radicalxchange.org/kiosk/blog/:splat
